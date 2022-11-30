@@ -3,7 +3,7 @@ import sqlite3
 import tkinter.ttk as ttk
 import tkinter.messagebox as tkMessageBox
 
-#DEVELOPED BY Mark Arvin
+#DEVELOPED BY Ashutosh Maurya
 root = Tk()
 root.title("Contact List")
 width = 700
